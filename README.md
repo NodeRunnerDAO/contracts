@@ -1,4 +1,4 @@
-# Ω Olympus Smart Contracts
+# NodeRunnerDAO Smart Contracts
 
 
 ##  🔧 Setting up Local Development
